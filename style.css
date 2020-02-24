@@ -1,0 +1,29 @@
+.carousel-item
+{
+    padding: 20px 40px;
+
+}
+.buy-now-button {
+    border: none;
+    padding: 10px 25px;
+    background: #252525;
+    color:white;
+    border-radius: 10px;
+    
+}
+.card
+{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+
+.card-heading a{
+     color: orange;
+     font-size: 20px;
+}
+#Contact-Us
+{   background-color: gainsboro;
+    height: 300px;
+    padding: 80px;
+}
